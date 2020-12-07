@@ -1,0 +1,4 @@
+[build]
+command = "make build"
+publish = "public"
+functions = "functions"
