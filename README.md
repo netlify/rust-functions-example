@@ -6,7 +6,7 @@ Functions can be deployed using Netlify's CLI as well as Netlify Build environme
 
 You can copy this repository and deploy it to Netlify by clicking the button below.
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/netlify/rust-functions-template"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/netlify/rust-functions-example"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
 After clicking that button, you’ll authenticate with GitHub and choose a repository name. Netlify will then automatically create a repository in your GitHub account with a copy of the files from the template. Next, it will build and deploy the new site on Netlify, bringing you to the site dashboard when the build is complete.
 
