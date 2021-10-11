@@ -2,7 +2,7 @@
 
 This example shows how to deploy Rust code on Netlify Functions.
 
-Functions can be deployed using Netlify's CLI as well as Netlify Build environment.
+Functions can be deployed using [Netlify's CLI](https://ntl.fyi/cli) as well as the Netlify Build environment.
 
 You can copy this repository and deploy it to Netlify by clicking the button below.
 
