@@ -1,2 +1,2 @@
 [template.environment]
-NETLIFY_EXPERIMENTAL_BUILD_RUST_SOURCE = "true"
+NETLIFY_EXPERIMENTAL_BUILD_RUST_SOURCE = "Enable experimental support for Rust functions"
